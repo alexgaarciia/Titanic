@@ -1,0 +1,1 @@
+For the subject of Introduction to Data Science, I had to do a final project related to the dataset of the titanic. The objectives were to analyze relationships among variables, which might influence survival using supervised machine learning techniques and make a model for predicting variable “survived” as a function of the rest of variables.
